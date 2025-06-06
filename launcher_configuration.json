@@ -1,5 +1,6 @@
 {
   "urls": {
-    "launcher_json": "https://launcher.lexusmc.com.tr/launcher.json"
+    "launcher": "https://launcher.lexusmc.com.tr",
+    "json": "https://launcher.lexusmc.com.tr/launcher.json"
   }
 }
